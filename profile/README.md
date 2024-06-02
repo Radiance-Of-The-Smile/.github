@@ -10,14 +10,14 @@
 
 ## Features
 - Upload/Remove Image
-- Quadrant and Tooth Detection
+- Quadrant and Teeth Detection
 - Detailed 5 category classification for all teeth
 - Download Processed Image
 
 ## Getting Started
 
 ### Installation
-Check the bankend and the frontend repositories for installation
+Check the backend and the frontend repositories for installation
 
 ## Authors
 - [Muhammad Ibrahim](https://github.com/ibbee)
