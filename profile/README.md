@@ -14,15 +14,20 @@
 - Detailed 5 category classification for all teeth
 - Download Processed Image
 
+## Poster
+<p align='center'>
+  <img src='../Poster.png' alt='Poster' style="max-height:600px">
+</p>
+
 ## Getting Started
 
 ### Installation
 Check the backend and the frontend repositories for installation
 
 ## Authors
-- [Muhammad Ibrahim](https://github.com/ibbee)
-- [Hassan Mahmood](https://github.com/hassan-arif)
-- [Hafiz Uzair Warsi](https://github.com/HafizUzair14)
+- [Muhammad Ibrahim](https://www.linkedin.com/in/mibrahim39/)
+- [Hassan Mahmood](https://www.linkedin.com/in/ihassanmahmood/)
+- [Hafiz Uzair Warsi](https://www.linkedin.com/in/hafiz-uzair/)
   
 ## Acknowledgments
-Thanks to Mr. Hamad Ul Qudous for supervising the project.
+Thanks to [Mr. Hamad Ul Qudous](https://www.linkedin.com/in/hamad-ulqudous-3a2a4869/) for supervising the project.
